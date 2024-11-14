@@ -63,7 +63,7 @@ app:
   # Enable a public endpoint for the application. If not set, the application
   # is only available on an internal endpoint accessible to other applications
   # within a subscription.
-  endpoint: public
+  endpoints: public
 
   # Set the Java runtime version for the application. Set to 8 for IBM Java 8,
   # 17 for IBM Semeru 17, or 21 for IBM Semeru 21. If not set, the service
